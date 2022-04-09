@@ -18,6 +18,8 @@ A Software app to complement an engineering project. The function of the app is 
 
 ## App Demo
 
+https://user-images.githubusercontent.com/76463517/162575235-6f877b86-4b75-4ba7-a559-07d6a7e4275d.mp4
+
 ## Screenshots
 
 Bluetooth Connection Page |  Select Device  |  Listview 
