@@ -18,7 +18,7 @@ GolfGo is a mobile app which complements our engineering design project. The fun
 
 ## App Demo
 
-https://user-images.githubusercontent.com/76463517/162575235-6f877b86-4b75-4ba7-a559-07d6a7e4275d.mp4
+https://user-images.githubusercontent.com/76463517/162575442-1043476c-7bfe-4f43-91c6-f2c29f95df43.mp4
 
 ## Screenshots
 
