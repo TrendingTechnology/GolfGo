@@ -1,6 +1,6 @@
 
 # GolfGo
-GolfGo is a mobile app which complements our engineering design project. The function of the app is to connect to a bluetooth module, as well as display and track all swings a golfer makes. It displays three key stats in particular: Lie Angle, Shaft Lean and Swing Speed. The app is Android compatible because of the bluetooth serial package used.
+GolfGo is a mobile app which complements our engineering design project. The function of the app is to connect to a bluetooth module, as well as display and track all swings a golfer makes. It displays three key stats in particular: Lie Angle, Shaft Lean and Swing Speed. The app is Android compatible because of the bluetooth serial package used. 
 
 ## Features
 
@@ -29,3 +29,9 @@ Bluetooth Connection Page |  Select Device  |  Listview
 Average-statistics page |  Favourites page  | Profile Page | Sidebar
 :---:|:---:|:---:|:---:|
 <img src = "assets\average_stats.jpg" />   |  <img src = "assets\favourites_page.jpg" /> | <img src = "assets\profile_page.jpg" /> | <img src = "assets\sidebar.jpg" /> |
+
+Nanyang Technological University | SCSE
+
+2021/2022
+
+CZ2006 Software Engineering
