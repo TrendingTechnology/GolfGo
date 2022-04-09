@@ -1,0 +1,46 @@
+name: flutter_bluetooth_serial_example
+version: 0.4.0
+description: Demonstrates how to use the `flutter_bluetooth_serial` plugin.
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  scoped_model: ^2.0.0-nullsafety.0
+  cupertino_icons: ^1.0.3
+
+  # persist locally data
+  shared_preferences: ^2.0.13
+
+  # pick image
+  image_picker: ^0.8.4+11
+
+  # store image
+  path_provider: ^2.0.9
+
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.9.2"
+  flutter_test:
+    sdk: flutter
+
+  flutter_bluetooth_serial:
+    path: ../
+  integration_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/golfgo_logo.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/timothy.png
+    - assets/golfCourse.jpeg
+    - assets/golfgo_logo.png
