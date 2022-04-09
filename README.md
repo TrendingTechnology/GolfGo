@@ -16,11 +16,13 @@ A Software app to complement an engineering project. The function of the app is 
 
 + Dynamic Profile page,
 
-#### Screenshots
+## App Demo
+
+## Screenshots
 
 Bluetooth Connection Page |  Select Device  |  
 :---:|:---:|
-![](https://i.imgur.com/qeeMsVe.png)  |  ![](https://i.imgur.com/zruuelZ.png)  |  
+![]<img src = "assets\bluetooth_connection.jpg" />  |  ![](https://i.imgur.com/zruuelZ.png)  |  
 
 Simple chat with server  |  Background connection  |
 :---:|:---:|
