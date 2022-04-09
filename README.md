@@ -20,10 +20,10 @@ A Software app to complement an engineering project. The function of the app is 
 
 ## Screenshots
 
-Bluetooth Connection Page |  Select Device  |  
-:---:|:---:|
-![]<img src = "assets\bluetooth_connection.jpg" />  |  ![](https://i.imgur.com/zruuelZ.png)  |  
+Bluetooth Connection Page |  Select Device  |  Listview 
+:---:|:---:|:---:|
+<img src = "assets\bluetooth_connection.jpg" />  |  <img src = "assets\select_device.jpg" />  |  <img src = "assets\listview_after_swings.jpg" />  |  
 
-Simple chat with server  |  Background connection  |
-:---:|:---:|
-![](https://i.imgur.com/y5mTUey.png)  |  ![](https://i.imgur.com/3wvwDVo.png)
+Average-statistics page |  Favourites page  | Profile Page | Sidebar
+:---:|:---:|:---:|:---:|
+<img src = "assets\average_stats.jpg" />   |  <img src = "assets\favourites_page.jpg" /> | <img src = "assets\profile_page.jpg" /> | <img src = "assets\sidebar.jpg" /> |
