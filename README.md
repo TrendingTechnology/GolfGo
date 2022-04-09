@@ -30,8 +30,8 @@ Average-statistics page |  Favourites page  | Profile Page | Sidebar
 :---:|:---:|:---:|:---:|
 <img src = "assets\average_stats.jpg" />   |  <img src = "assets\favourites_page.jpg" /> | <img src = "assets\profile_page.jpg" /> | <img src = "assets\sidebar.jpg" /> |
 
-Nanyang Technological University | SCSE
+Nanyang Technological University | REP
 
-2021/2022
+2022
 
-CZ2006 Software Engineering
+RE2012 Renaissance Design Project
